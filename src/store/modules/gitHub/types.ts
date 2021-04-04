@@ -1,8 +1,8 @@
 export enum Types {
-  GET_USER = '@cnh/GET_USER',
-  GET_USER_SUCCESS = '@cnh/GET_USER_SUCCESS',
-  GET_USER_FAILURE = '@cnh/GET_USER_FAILURE',
-  GET_USER_CLEAR = '@cnh/GET_USER_CLEAR',
+  GET_USER = '@gitHub/GET_USER',
+  GET_USER_SUCCESS = '@gitHub/GET_USER_SUCCESS',
+  GET_USER_FAILURE = '@gitHub/GET_USER_FAILURE',
+  GET_USER_CLEAR = '@gitHub/GET_USER_CLEAR',
 }
 
 export interface GitHub {
